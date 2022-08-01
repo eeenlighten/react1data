@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+  "count": 1,
+  "number": 1,  
+  "slidetxt": [
+    {
+      "text1" : "1",
+      "id" : 0
+    },
+    {
+      "text2" : "2",
+      "id" : 1
+    },
+    {
+      "text3" : "3",
+      "id" : 2
+    },
+    {
+      "text4" : "4",
+      "id" : 3
+    },
+    {
+      "text5" : "자동플레이",
+      "id" : 4
+    },
+    {
+      "text6" : "정지",
+      "id" : 5
+    }
+  ], 
+
+  "slidetxt2": [
+    {
+    "text7" : "DEVELOPER",
+    "text8" : "NEW FRONTEND",
+    "text9" : "당신이 만들어갈 새로운 이야기",
+    "text10" : "당신도 할 수 있습니다.",
+    "text11" : "자세히 보기",
+    "text12" : "사이트 보기",
+    "id" : 6
+    }
+  ]}
+}
