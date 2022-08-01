@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+  "count": 1,
+  "number": 1,  
+  "textInfor": [
+      {"text": "헤더 영역"},
+      {"text": "슬라이드 영역"},
+      {"text": "이미지 영역"},
+      {"text": "컨텐츠 영역"},
+      {"text": "푸터 영역"}
+    ],
+   "textinfo2": [
+      {
+      "text": "로그인"
+      }
+    ]}
+}
